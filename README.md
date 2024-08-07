@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<This is Victor Ewang
-**dwangman/dwangman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Victor Ewang
+
 I am a data analyst in the making..
 
 Call me a data molecule as i build and develop from data
